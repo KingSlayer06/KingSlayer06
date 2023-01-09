@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/himanshu-sherkar/](My Portfolio)
+- 👨‍💻 All of my projects are available at [My Portfolio Link](https://sites.google.com/view/himanshu-sherkar/)
 
 - 💬 Ask me about **Unity , DotNet , C# , JAVA , Spring**
 
 - 📫 How to reach me **sherkarhimanshu00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/188uS07K-hQYW5w3U5nqqXQvI0UlkJgIa/view?usp=sharing](My Resume)
+- 📄 Know about my experiences [My Resume Link](https://drive.google.com/file/d/188uS07K-hQYW5w3U5nqqXQvI0UlkJgIa/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
