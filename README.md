@@ -1,9 +1,9 @@
 [![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw06BmYEPP0H635xvAnCshGN&ust=1673346920241000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiykJiluvwCFQAAAAAdAAAAABAF)]
 <h1 align="center">Hi 👋, I'm Himanshu Sherkar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
-<p align="left"> <img src="[https://komarev.com/ghpvc/?username=kingslayer06&label=Profile%20views&color=0e75b6&style=flat](https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966)" alt="kingslayer06" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kingslayer06&label=Profile%20views&color=0e75b6&style=flat" alt="kingslayer06" /> </p>
 
 - 🔭 I’m currently working on **Zionverse App**
 
