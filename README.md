@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fcoding-gif-24625099&psig=AOvVaw06BmYEPP0H635xvAnCshGN&ust=1673346920241000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCMiykJiluvwCFQAAAAAdAAAAABAF)]()
+[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnikeshpyakurel&psig=AOvVaw3pvfi1_Jjk-SBgNYqC5KG_&ust=1673348161938000&source=images&cd=vfe&ved=2ahUKEwiPhr_nqbr8AhVFSmwGHT56BgEQjRx6BAgAEAo)](https://sites.google.com/view/himanshu-sherkar/)
 <h1 align="center">Hi 👋, I'm Himanshu Sherkar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **DevOps**
 
-- 👨‍💻 All of my projects are available at [https://sites.google.com/view/himanshu-sherkar/] (My Portfolio)
+- 👨‍💻 All of my projects are available at [https://sites.google.com/view/himanshu-sherkar/](My Portfolio)
 
 - 💬 Ask me about **Unity , DotNet , C# , JAVA , Spring**
 
 - 📫 How to reach me **sherkarhimanshu00@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/188uS07K-hQYW5w3U5nqqXQvI0UlkJgIa/view?usp=sharing] (My Resume)
+- 📄 Know about my experiences [https://drive.google.com/file/d/188uS07K-hQYW5w3U5nqqXQvI0UlkJgIa/view?usp=sharing](My Resume)
 
 - ⚡ Fun fact **I think I am Funny**
 
