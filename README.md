@@ -1,4 +1,4 @@
-[![MasterHead](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Fnikeshpyakurel&psig=AOvVaw3pvfi1_Jjk-SBgNYqC5KG_&ust=1673348161938000&source=images&cd=vfe&ved=2ahUKEwiPhr_nqbr8AhVFSmwGHT56BgEQjRx6BAgAEAo)](https://sites.google.com/view/himanshu-sherkar/)
+[![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://sites.google.com/view/himanshu-sherkar/)
 <h1 align="center">Hi 👋, I'm Himanshu Sherkar</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
