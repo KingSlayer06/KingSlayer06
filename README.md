@@ -1,17 +1,17 @@
 [![MasterHead](https://camo.githubusercontent.com/ba9f3bd30647e352a3f5e1e45eb45c6ec7bad6155cd16aaedf4a426738da0ca5/68747470733a2f2f696e646f616e616c79746963612e636f6d2f7374617469632f696d616765732f62616e6e6572722e676966)](https://sites.google.com/view/himanshu-sherkar/)
 <h1 align="center">Hi 👋, I'm Himanshu Sherkar</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">A passionate iOS developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingslayer06&label=Profile%20views&color=0e75b6&style=flat" alt="kingslayer06" /> </p>
 
-- 🔭 I’m currently working on **Zionverse App**
+- 🔭 I’m currently working on **NEVER AI App**
 
-- 🌱 I’m currently learning **DevOps**
+- 🌱 I’m currently learning **SwiftUI**
 
 - 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/himanshu-sherkar/)
 
-- 💬 Ask me about **Unity , DotNet , C# , JAVA , Spring**
+- 💬 Ask me about **iOS Apps , Swift , SwiftUI , UIKit , gRPC, MVVM**
 
 - 📫 How to reach me **sherkarhimanshu00@gmail.com**
 
