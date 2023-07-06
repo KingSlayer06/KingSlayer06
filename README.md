@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingslayer06&label=Profile%20views&color=0e75b6&style=flat" alt="kingslayer06" /> </p>
 
-- 🔭 I’m currently working on **NEVER AI App**
+- 🔭 I’m currently working on **[NEVER AI](https://apps.apple.com/in/app/never-ai/id6448025317) App**
 
 - 🌱 I’m currently learning **SwiftUI**
 
@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sherkarhimanshu00@gmail.com**
 
-- 📄 Want to know about my experiences [Visit My Resume](https://drive.google.com/file/d/188uS07K-hQYW5w3U5nqqXQvI0UlkJgIa/view?usp=sharing)
+- 📄 Want to know about my experiences [Visit My Resume](https://drive.google.com/file/d/1HT1gHyV1XqVGt83ymie9NaaattGdn-g9/view?usp=sharing)
 
 - ⚡ Fun fact **I think I am Funny**
 
