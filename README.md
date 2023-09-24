@@ -9,9 +9,9 @@
 
 - 🌱 I’m currently learning **SwiftUI**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/himanshu-sherkar/)
+<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/himanshu-sherkar/) -->
 
-- 💬 Ask me about **iOS Apps , Swift , SwiftUI , UIKit , gRPC, MVVM**
+- 💬 Ask me about **iOS Apps , Swift , SwiftUI , UIKit , gRPC , MVVM , Firebase**
 
 - 📫 How to reach me **sherkarhimanshu00@gmail.com**
 
