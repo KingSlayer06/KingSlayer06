@@ -11,7 +11,7 @@
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://sites.google.com/view/himanshu-sherkar/) -->
 
-- 💬 Ask me about **iOS Apps , Swift , SwiftUI , UIKit , Core Data , Swift Data , gRPC , MVVM , Firebase**
+- 💬 Ask me about **iOS Apps , Swift , SwiftUI , UIKit**
 
 - 📫 How to reach me **sherkarhimanshu00@gmail.com**
 
