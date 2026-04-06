@@ -1,14 +1,14 @@
 <img src="Gif/coding2.gif" widht=100% />
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78F2C&random=false&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Sherkar;Passionate+iOS+developer+from+India%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F78F2C&random=false&width=470&lines=Hi+%F0%9F%91%8B%2C+I'm+Himanshu+Sherkar;Passionate+Mobile+developer+from+India%F0%9F%87%AE%F0%9F%87%B3" alt="Typing SVG" /></a>
 <!-- <img align="right" alt="Coding" width="400" src="https://drive.google.com/file/d/1e5lqoBMv3_LspBvZR-qQORgDrO-5MuUU/view?usp=sharing"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kingslayer06&label=Profile%20views&color=0e75b6&style=flat" alt="kingslayer06" /> </p>
 
 - 🔭 I’m currently studying Msc Computer Science at **[VU Amsterdam](https://vu.nl)**
 
-- 🌱 I’m currently learning **SwiftUI**
+- 🌱 I’m currently learning **Kotlin Multiplatform**
 
-- 💬 Ask me about **iOS Apps , Swift , SwiftUI , UIKit**
+- 💬 Ask me about **Kotlin , Jetpack Compose , Swift , SwiftUI , Kotlin Multiplatfrom**
 
 - 📫 How to reach me **sherkarhimanshu00@gmail.com**
 
@@ -19,14 +19,14 @@
 <h3 align="left">Software and tools:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=apple,figma,firebase,git,postman,vscode,unity" />
+    <img src="https://skillicons.dev/icons?i=apple,androidstudio,figma,firebase,git,postman,docker,vscode,unity" />
   </a>
 </p>
 
 <h3 align="left">Languages:</h3>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,java,cs" />
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,java,cs" />
   </a>
 </p>
 
